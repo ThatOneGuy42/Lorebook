@@ -1,2 +1,3 @@
 # GitWiki-BS12-
-Lore site for the BS12 Lore. Gonna be a wiki
+Structuring and Info for the BS12 Lore. 
+Here's the Main Page: http://thatoneguy42.github.io/GitWiki-BS12
